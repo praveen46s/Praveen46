@@ -8,6 +8,7 @@ elif st.button("subtract"):
       st.success(a-b)
 elif st.button("multiply"):
       st.success(a*b)
-
+elif st.button("divide"):
+      st.success(a/b)
 
 
